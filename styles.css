@@ -101,3 +101,27 @@ ul, h4, img, .hero {
     height: 200px;
     border-radius: 12px;
 }
+
+.testimonial {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 400px;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1f2937;
+    display: flex;
+    justify-content: right;
+}
